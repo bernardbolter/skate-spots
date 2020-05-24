@@ -1,0 +1,7 @@
+{
+    "Spots": [
+        { "type": "Feature", "properties": { "Name": "Long Beach, New York", "description": "bowl + street by spohn ranch" }, "geometry": { "type": "Point", "coordinates": [ -73.661071, 40.584016 ] } },
+        { "type": "Feature", "properties": { "Name": "Aala, Honolulu", "description": "no bowl but good concrete. Streetpark" }, "geometry": { "type": "Point", "coordinates": [ -157.862952, 21.314923 ] } },
+        { "type": "Feature", "properties": { "Name": "Abbotsford, Canada", "description": "flow" }, "geometry": { "type": "Point", "coordinates": [ -122.261275, 49.048001 ] } }
+    ]
+}
